@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/
+.pytest_cache/
+*.ipynb
+.hypothesis/
+.mypy_cache/
+ecom-back.code-workspace
+.env
+ecom-back.code-workspace

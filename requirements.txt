@@ -1,0 +1,10 @@
+fastapi_contrib
+aio_pika
+ujson
+motor
+pytz
+aiohttp
+aioredis
+orjson
+sentry_sdk
+blinker
